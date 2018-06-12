@@ -30,5 +30,5 @@ Any time the original branch makes an update, you can follow steps 3 and 4. If y
 ```bash
 git add .
 git commit -m "some commit message"
-git push origin/master
+git push origin master
 ```
