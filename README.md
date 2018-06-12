@@ -1,4 +1,4 @@
-## GitHub Forking Steps
+## GitHub Forking Status
 
 Hello. You have forked and cloned my repo. Now you can edit the repository in any way. If you want to make sure this repo is capable of receiving updates, follow the steps below:
 
