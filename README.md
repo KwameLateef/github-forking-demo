@@ -2,13 +2,13 @@
 
 Hello. You have forked and cloned my repo. Now you can edit the repository in any way. If you want to make sure this repo is capable of receiving updates, follow the steps below:
 
-1. Add the original repo's information
+1. Add the original repo's information (done)
 In your terminal, type:
 ```bash
 git remote add upstream https://github.com/adhire/github-forking-demo.git
 ```
 
-2. Check to see if the connection was created
+2. Check to see if the connection was created (done)
 In your terminal, type: 
 ```bash
 git remote -v
